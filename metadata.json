@@ -1,0 +1,6 @@
+{
+  "name": "Customs Invoice → HS Code Summary Portal",
+  "description": "Upload or drop commercial invoices to extract line items, automatically group by HS Code, calculate outer case counts, inner units, and VAT values, and export professional landscape customs declaration PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
